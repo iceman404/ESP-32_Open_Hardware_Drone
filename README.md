@@ -4,8 +4,6 @@
 
 **Author:** iceman404.com
 
-**License:** Creative Commons Attribution 3.0 License: http://creativecommons.org/licenses/by/3.0/
-
 **GitHub:** https://github.com/iceman404/ESP-32_Open_Hardware_Drone
 
 ## Project Overview
@@ -37,10 +35,6 @@ This project leverages the power of the **ESP32 microcontroller** to create an a
 4. **Calibrate and Test:** Calibrate sensors, test motor functions via the serial monitor, and perform pre-flight checks.
 5. **Fine-Tune Parameters:** Adjust control parameters as needed for stable flight.
 
-## Backup Instructions
-Before making any changes:
-- Commit your current state using Git.
-- Save a backup copy of this README file (e.g., `README_backup.md`).
 
 ## License
 This project is licensed under the **MIT License**.
