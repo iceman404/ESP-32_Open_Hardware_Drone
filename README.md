@@ -2,9 +2,7 @@
 
 **Project Title:** ESP32 Open Hardware Drone
 
-**Author:** iceman404.com
-
-**GitHub:** https://github.com/iceman404/ESP-32_Open_Hardware_Drone
+**Author:** John Subba
 
 ## Project Overview
 This project leverages the power of the **ESP32 microcontroller** to create an advanced, fully customizable drone system. Built on a robust **330 frame**, this drone is equipped with four **1000KVA BLDC motors** paired with **8-inch propellers**, ensuring high performance and stability in flight.
